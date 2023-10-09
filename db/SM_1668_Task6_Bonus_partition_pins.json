@@ -1,0 +1,257 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "adc_cs_n",
+					"strict" : false
+				},
+				{
+					"name" : "din",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sck",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[7]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[8]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[9]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[10]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch5[11]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[1]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[2]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[4]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[5]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[6]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[7]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[8]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[9]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[10]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch6[11]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[2]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[3]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[4]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[5]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[6]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[7]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[8]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[9]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[10]",
+					"strict" : false
+				},
+				{
+					"name" : "d_out_ch7[11]",
+					"strict" : false
+				},
+				{
+					"name" : "data_frame[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_frame[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A_1a",
+					"strict" : false
+				},
+				{
+					"name" : "A_1b",
+					"strict" : false
+				},
+				{
+					"name" : "B_1a",
+					"strict" : false
+				},
+				{
+					"name" : "B_1b",
+					"strict" : false
+				},
+				{
+					"name" : "tx",
+					"strict" : false
+				},
+				{
+					"name" : "r1",
+					"strict" : false
+				},
+				{
+					"name" : "g1",
+					"strict" : false
+				},
+				{
+					"name" : "b1",
+					"strict" : false
+				},
+				{
+					"name" : "PWM_OUT",
+					"strict" : false
+				},
+				{
+					"name" : "s2",
+					"strict" : false
+				},
+				{
+					"name" : "s3",
+					"strict" : false
+				},
+				{
+					"name" : "emout",
+					"strict" : false
+				},
+				{
+					"name" : "r2",
+					"strict" : false
+				},
+				{
+					"name" : "g2",
+					"strict" : false
+				},
+				{
+					"name" : "b2",
+					"strict" : false
+				},
+				{
+					"name" : "r3",
+					"strict" : false
+				},
+				{
+					"name" : "b3",
+					"strict" : false
+				},
+				{
+					"name" : "g3",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50",
+					"strict" : false
+				},
+				{
+					"name" : "dout",
+					"strict" : false
+				},
+				{
+					"name" : "in",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

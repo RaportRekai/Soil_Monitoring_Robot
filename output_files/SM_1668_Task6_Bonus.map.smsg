@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at SM_1668_Task6_Bonus.v(68): object "C" differs only in case from object "c" in the same scope File: C:/intelFPGA_lite/SM_1668_Task6_Bonus/SM_1668_Task6_Bonus.v Line: 68
+Info (10281): Verilog HDL Declaration information at SM_1668_Task6_Bonus.v(161): object "A" differs only in case from object "a" in the same scope File: C:/intelFPGA_lite/SM_1668_Task6_Bonus/SM_1668_Task6_Bonus.v Line: 161
